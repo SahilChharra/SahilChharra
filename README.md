@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilChharra&show_icons=true&locale=en&layout=compact" alt="SahilChharra" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SahilChharra&show_icons=true&locale=en" alt="SahilChharra" /></p>
 
-<a href="https://github.com/SahilChharra/github-readme-activity-graph"><img alt="Sahil Chharra's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=SahilChharra&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
