@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SahilChharra](https://github.com/SahilChharra)
+- 👨‍💻 All of my projects repositories are available at [https://github.com/SahilChharra](https://github.com/SahilChharra)
 
 - 💬 Ask me about **HTML, CSS, SCSS, JavaScript and Three.js**
 
