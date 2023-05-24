@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Chharra</h1>
 <h3 align="center">A enthusiastic fullstack developer</h3>
 
-- 🔭 I’m currently working on **Profile Readme Generator**
+- 🔭 I’m currently working on **Food Calories Detection from Indian Food Images using YOLO v8**
 
 - 🌱 I’m currently learning **Flutter, ReactJS**
 
