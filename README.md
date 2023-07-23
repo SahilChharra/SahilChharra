@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently focusing on **Placement and Further Exams**
 
-- 🌱 I’m currently learning **Flutter, ReactJS**
+- 🌱 I’m currently learning **Competitive Programming**
 
 - 👨‍💻 All of my projects repositories are available at [https://github.com/SahilChharra](https://github.com/SahilChharra)
 
